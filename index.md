@@ -4,6 +4,12 @@ layout: page
 permlink: /
 ---
 
+### Paper Submission
+
+* Submission Deadline: 2024-08-02 (TIMEZONE AoE, UTC-12)
+* [Submission Site](https://easychair.org/my/conference?conf=recsys2024workshops)
+* [Call for Papers]({{ "/cfp/" | relative_url }})
+
 The 7th FAccTRec Workshop on Responsible Recommendation at [RecSys 2024](https://recsys.acm.org/recsys24/) is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems.
 In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 

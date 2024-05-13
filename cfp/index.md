@@ -48,11 +48,12 @@ In a case of position papers, the number of pages should be limited to three (3)
 
 ### Submission
 
-Papers should be submitted from EasyChair. Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2024workshops). Please do not forget to add a keyword indicating your type of submission to the “Keywords” field: “Position” or “Research”.
 
-Important Dates
-2024-08-02: Paper submission deadline
-2024-08-27: Author notification
-2024-09-10: Final version upload
+### Important Dates
+
+- 2024-08-02: Paper submission deadline
+- 2024-08-27: Author notification
+- 2024-09-10: Final version upload
 
 TIMEZONE: Anywhere On Earth (UTC-12)
