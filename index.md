@@ -21,7 +21,9 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## Important Dates
 
-TBD
+* 2024-08-02: Paper submission deadline
+* 2024-08-27: Author notification
+* 2024-09-10: Final version upload
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 

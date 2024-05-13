@@ -26,7 +26,7 @@ permlink: /committee/
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="kamishima.jpg" style="height:150px"></p>
 <p><a href="https://www.kamishima.net/">Toshihiro Kamishima</a></p>
-<p>National Institute of Advanced Industrial Science and Technology (AIST)</p>
+<p>Independent Researcher</p>
 </div>
 
 ## Steering Committee
