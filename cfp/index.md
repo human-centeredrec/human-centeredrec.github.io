@@ -48,7 +48,7 @@ In a case of position papers, the number of pages should be limited to three (3)
 
 ### Submission
 
-Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2024workshops). Please do not forget to add a keyword indicating your type of submission to the “Keywords” field: “Position” or “Research”.
+Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2024workshops).  Please do not forget to choose your type of submission: Position or Research.
 
 ### Important Dates
 
