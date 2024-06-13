@@ -24,6 +24,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 * 2024-08-02: Paper submission deadline
 * 2024-08-27: Author notification
 * 2024-09-10: Final version upload
+* 2024-10-14: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
