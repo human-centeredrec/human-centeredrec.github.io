@@ -6,7 +6,7 @@ permlink: /cfp/
 
 The 7th FAccTRec Workshop on Responsible Recommendation at RecSys 2024 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 
-We currently plan for this workshop to be primarily in-person in Bari, with live streaming and the possibility for remote presentation for those who cannot travel to Bari. Further details will be announced in early July, but physical attendance in Bari will be encouraged if possible but not necessary to participate in the workshop.
+We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Bari.
 
 ## Topics of Interest
 
