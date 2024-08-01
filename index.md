@@ -6,7 +6,9 @@ permlink: /
 
 ### Paper Submission
 
-* Submission Deadline: 2024-08-02 (TIMEZONE AoE, UTC-12)
+We extended the submission deadline by one week.  The new deadline is as follows:
+
+* Submission Deadline: 2024-08-09 (TIMEZONE AoE, UTC-12)
 * [Submission Site](https://easychair.org/my/conference?conf=recsys2024workshops)
 * [Call for Papers]({{ "/cfp/" | relative_url }})
 
@@ -21,9 +23,9 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## Important Dates
 
-* 2024-08-02: Paper submission deadline
-* 2024-08-27: Author notification
-* 2024-09-10: Final version upload
+* <apan text-decoration: line-through;>2024-08-02</span> 2024-08-09: Paper submission deadline
+* <apan text-decoration: line-through;>2024-08-27</span> 2024-09-03: Author notification
+* <apan text-decoration: line-through;>2024-09-10</span> 2024-09-17: Final version upload
 * 2024-10-14: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
