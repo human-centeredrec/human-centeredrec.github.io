@@ -17,6 +17,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2024-08-02: the submission deadline is extended until 2024-08-09
 * 2024-05-09: the CFP is available
 * 2024-04-23: opening this site
 * 2023-09-16: <a rel="me" href="https://recsys.social/@FAccTRec">Follow us on Mastodon</a>
