@@ -52,9 +52,9 @@ Papers should be submitted from [EasyChair](https://easychair.org/my/conference?
 
 ### Important Dates
 
-* <span text-decoration: line-through;>2024-08-02</span> 2024-08-09: Paper submission deadline
-* <span text-decoration: line-through;>2024-08-27</span> 2024-09-03: Author notification
-* <span text-decoration: line-through;>2024-09-10</span> 2024-09-17: Final version upload
+* <span style="text-decoration: line-through";>2024-08-02</span> 2024-08-09: Paper submission deadline
+* <span style="text-decoration: line-through";>2024-08-27</span> 2024-09-03: Author notification
+* <span style="text-decoration: line-through";>2024-09-10</span> 2024-09-17: Final version upload
 * 2024-10-14: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
