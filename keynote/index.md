@@ -6,7 +6,7 @@ permlink: /keynote/
 
 **Title:** Recommender systems research under the EU’s Digital Services Act and AI Act
 
-by [Vinagre João](https://algorithmic-transparency.ec.europa.eu/joao-vinagre_en), Joint Research Centre.
+by [Vinagre João](https://algorithmic-transparency.ec.europa.eu/joao-vinagre_en), Joint Research Centre of the European Commission.
 
 ## Abstract
 
