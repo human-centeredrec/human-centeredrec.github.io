@@ -22,13 +22,13 @@ The workshop is on **Monday, Sep. 14, 2024**.
 * Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems (short)
 * A Unified Causal Framework for Auditing Recommender Systems (short)
 
-## Session 3 (14:30–16:00 CEST, 12:30–14:00 UTC)
+## Session 3 (On-site; 14:30–16:00 CEST, 12:30–14:00 UTC)
 
 ### Keynote: Recommender systems research under the EU’s Digital Services Act and AI Act
 
 João Vinagre (Joint Research Centre of the European Commission)
 
-## Session 4 (16:45–18:15 CEST, 14:45–16:15 UTC)
+## Session 4 (On-site; 16:45–18:15 CEST, 14:45–16:15 UTC)
 
 * ARTAI: An Evaluation Platform to Assess Societal Risk of Recommender Algorithms (long)
 * The trade-off between data minimization and fairness in collaborative filtering (long)
