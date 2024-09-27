@@ -10,17 +10,25 @@ The workshop is on **Monday, Sep. 14, 2024**.
 
 * Opening
 
-* Questioning AI: Preserving Decision-Making Autonomy Through Reflection (long)
-* Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation (long)
-* Towards Sustainability of Large Language Models for Recommender Systems (short)
-* On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration (short)
+* [Questioning AI: Preserving Decision-Making Autonomy Through Reflection](https://arxiv.org/abs/2409.10250) (long)
+	* Simon Fischer
+* [Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation](https://github.com/seznam/facctrec2024/blob/main/bypassing_the_popularity_bias_arxiv_preview.pdf) (long)
+	* Václav Blahut and Karel Koupil
+* [Towards Sustainability of Large Language Models for Recommender Systems](https://www.researchgate.net/publication/384104029_Towards_Sustainability_of_Large_Language_Models_for_Recommender_Systems) (short)
+	* Yuan Lin, Debasish Ghose, David Coates and Junyong You
+* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) (short)
+	* Savvina Daniil, Manel Slokom, Mirjam Cuper, Cynthia C. S. Liem, Jacco van Ossenbruggen and Laura Hollink
 
 ## Session 2 (On-line; 11:15–12:45 CEST, 09:15–10:45 UTC)
 
-* Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation (long)
-* Reducing Population-level Inequality Can Improve Demographic Group Fairness: a Twitter Case Study (short)
-* Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems (short)
-* A Unified Causal Framework for Auditing Recommender Systems (short)
+* [Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation](https://arxiv.org/abs/2409.07424) (long)
+	* Gavin Butts, Jethro R. Lee, Pegah Emdad, Shannon Song, Chiman Salavati, Willmar Sosa Diaz, Shiri Dori-Hacohen and Fabricio Murai
+* [Reducing Population-level Inequality Can Improve Demographic Group Fairness: a Twitter Case Study](https://arxiv.org/abs/2409.08135) (short)
+	* Avijit Ghosh, Tomo Lazovich, Kristian Lum and Christo Wilson
+* [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) (short)
+	* Qunfang Wu and Lu Xian
+* [A Unified Causal Framework for Auditing Recommender Systems](https://arxiv.org/abs/2409.13210) (short)
+	* Vibhhu Sharma, Shantanu Gupta, Nil-Jana Akpinar, Zachary Lipton and Leqi Liu
 
 ## Session 3 (On-site; 14:30–16:00 CEST, 12:30–14:00 UTC)
 
@@ -30,10 +38,15 @@ João Vinagre (Joint Research Centre of the European Commission)
 
 ## Session 4 (On-site; 16:45–18:15 CEST, 14:45–16:15 UTC)
 
-* ARTAI: An Evaluation Platform to Assess Societal Risk of Recommender Algorithms (long)
-* The trade-off between data minimization and fairness in collaborative filtering (long)
-* Data Generation via Latent Factor Simulation for Fairness-aware Re-ranking (short)
-* RTs ≠ Endorsements: Rethinking Exposure Fairness on Social Media Platforms (short)
-* Bias Reduction in Social Networks through Agent-Based Simulations (short)
+* [ARTAI: An Evaluation Platform to Assess Societal Risk of Recommender Algorithms](http://arxiv.org/abs/2409.12396) (long)
+	* Qin Ruan, Jin Xu, Ruihai Dong, Arjumand Younus, Tai Tan Mai, Barry O'Sullivan and Susan Leavy
+* [The trade-off between data minimization and fairness in collaborative filtering](https://www.researchgate.net/publication/384153008_The_trade-off_between_data_minimization_and_fairness_in_collaborative_filtering) (long)
+	* Nasim Sonboli, Sipei Li, Mehdi Elahi and Asia Biega
+* [Data Generation via Latent Factor Simulation for Fairness-aware Re-ranking](https://arxiv.org/abs/2409.14078) {[code](https://github.com/that-recsys-lab/lafs)} (short)
+	* Elena Štefancová, Cassidy All, Joshua Paup, Martin Homola, Nicholas Mattei and Robin Burke
+* [RTs ≠ Endorsements: Rethinking Exposure Fairness on Social Media Platforms](https://arxiv.org/abs/2409.13237) (short)
+	* Nathan Bartley and Kristina Lerman
+* [Bias Reduction in Social Networks through Agent-Based Simulations](https://arxiv.org/abs/2409.16558) (short)
+	* Nathan Bartley, Keith Burghardt and Kristina Lerman
 
 * Closing
