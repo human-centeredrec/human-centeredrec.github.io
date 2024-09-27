@@ -32,7 +32,7 @@ The workshop is on **Monday, Sep. 14, 2024**.
 
 ## Session 3 (On-site; 14:30–16:00 CEST, 12:30–14:00 UTC)
 
-### Keynote: Recommender systems research under the EU’s Digital Services Act and AI Act
+### Keynote: [Recommender systems research under the EU’s Digital Services Act and AI Act]({{ "../keynote/" | relative_url }})
 
 João Vinagre (Joint Research Centre of the European Commission)
 
