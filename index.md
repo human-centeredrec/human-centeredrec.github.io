@@ -9,6 +9,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2024-09-27: We fix the [program]({{ "/program/" | relative_url }})
 * 2024-09-12: [Keynote by João Vinagre]({{ "/keynote/" | relative_url }})
 * 2024-08-02: the submission deadline is extended until 2024-08-09
 * 2024-05-09: the CFP is available
