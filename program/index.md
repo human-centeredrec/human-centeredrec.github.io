@@ -16,8 +16,8 @@ The workshop is on **Monday, Sep. 14, 2024**.
 	* Václav Blahut and Karel Koupil
 * [Towards Sustainability of Large Language Models for Recommender Systems](https://www.researchgate.net/publication/384104029_Towards_Sustainability_of_Large_Language_Models_for_Recommender_Systems) (short)
 	* Yuan Lin, Debasish Ghose, David Coates and Junyong You
-* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) (short)
-	* Savvina Daniil, Manel Slokom, Mirjam Cuper, Cynthia C. S. Liem, Jacco van Ossenbruggen and Laura Hollink
+* [Data Generation via Latent Factor Simulation for Fairness-aware Re-ranking](https://arxiv.org/abs/2409.14078) {[code](https://github.com/that-recsys-lab/lafs)} (short)
+	* Elena Štefancová, Cassidy All, Joshua Paup, Martin Homola, Nicholas Mattei and Robin Burke
 
 ## Session 2 (On-line; 11:15–12:45 CEST, 09:15–10:45 UTC)
 
@@ -42,8 +42,8 @@ João Vinagre (Joint Research Centre of the European Commission)
 	* Qin Ruan, Jin Xu, Ruihai Dong, Arjumand Younus, Tai Tan Mai, Barry O'Sullivan and Susan Leavy
 * [The trade-off between data minimization and fairness in collaborative filtering](https://www.researchgate.net/publication/384153008_The_trade-off_between_data_minimization_and_fairness_in_collaborative_filtering) (long)
 	* Nasim Sonboli, Sipei Li, Mehdi Elahi and Asia Biega
-* [Data Generation via Latent Factor Simulation for Fairness-aware Re-ranking](https://arxiv.org/abs/2409.14078) {[code](https://github.com/that-recsys-lab/lafs)} (short)
-	* Elena Štefancová, Cassidy All, Joshua Paup, Martin Homola, Nicholas Mattei and Robin Burke
+* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) (short)
+	* Savvina Daniil, Manel Slokom, Mirjam Cuper, Cynthia C. S. Liem, Jacco van Ossenbruggen and Laura Hollink
 * [RTs ≠ Endorsements: Rethinking Exposure Fairness on Social Media Platforms](https://arxiv.org/abs/2409.13237) (short)
 	* Nathan Bartley and Kristina Lerman
 * [Bias Reduction in Social Networks through Agent-Based Simulations](https://arxiv.org/abs/2409.16558) (short)
