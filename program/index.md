@@ -4,7 +4,7 @@ layout: page
 permlink: /program/
 ---
 
-The workshop is on **Monday, Sep. 14, 2024**.
+The workshop is on **Monday, Oct. 14, 2024**.
 
 ## Session 1 (On-site; 09:00–10:30 CEST, 07:00–08:30 UTC)
 
