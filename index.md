@@ -11,7 +11,7 @@ permlink: /
 </div>
 
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
-<p>The summary article about the workshop is available at [The ACM Ditital Library](https://doi.org/10.1145/3640457.3687111)</p>
+<p>The summary article about the workshop is available at <a href="https://doi.org/10.1145/3640457.3687111">The ACM Ditital Library</a></p>
 </div>
 
 <div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
