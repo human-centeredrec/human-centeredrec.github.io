@@ -21,7 +21,7 @@ The workshop is on **Monday, Oct. 14, 2024**.
 
 ## Session 2 (On-line; 11:15–12:45 CEST, 09:15–10:45 UTC)
 
-* [Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation](https://arxiv.org/abs/2409.07424) {[slide](pegah.pdf)} (long)
+* [Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation](https://arxiv.org/abs/2409.07424) {[slide](emdad.pdf)} (long)
 	* Gavin Butts, Jethro R. Lee, Pegah Emdad, Shannon Song, Chiman Salavati, Willmar Sosa Diaz, Shiri Dori-Hacohen and Fabricio Murai
 * [Reducing Population-level Inequality Can Improve Demographic Group Fairness: a Twitter Case Study](https://arxiv.org/abs/2409.08135) {[slide](ghosh.pdf)} (short)
 	* Avijit Ghosh, Tomo Lazovich, Kristian Lum and Christo Wilson
