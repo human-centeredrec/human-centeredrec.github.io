@@ -42,7 +42,7 @@ João Vinagre (Joint Research Centre of the European Commission)
 	* Qin Ruan, Jin Xu, Ruihai Dong, Arjumand Younus, Tai Tan Mai, Barry O'Sullivan and Susan Leavy
 * [The trade-off between data minimization and fairness in collaborative filtering](https://www.researchgate.net/publication/384153008_The_trade-off_between_data_minimization_and_fairness_in_collaborative_filtering) {[slide](sonboli.pdf)} (long)
 	* Nasim Sonboli, Sipei Li, Mehdi Elahi and Asia Biega
-* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) (short)
+* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) {[slide](daniil.pdf)} (short)
 	* Savvina Daniil, Manel Slokom, Mirjam Cuper, Cynthia C. S. Liem, Jacco van Ossenbruggen and Laura Hollink
 * [RTs ≠ Endorsements: Rethinking Exposure Fairness on Social Media Platforms](https://arxiv.org/abs/2409.13237) (short)
 	* Nathan Bartley and Kristina Lerman
