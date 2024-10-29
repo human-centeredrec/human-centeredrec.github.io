@@ -12,7 +12,7 @@ The workshop is on **Monday, Oct. 14, 2024**.
 
 * [Questioning AI: Preserving Decision-Making Autonomy Through Reflection](https://arxiv.org/abs/2409.10250) (long)
 	* Simon Fischer
-* [Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation](https://arxiv.org/abs/2410.02776) (long)
+* [Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation](https://arxiv.org/abs/2410.02776) {[slide](blahut.pdf)} (long)
 	* Václav Blahut and Karel Koupil
 * [Towards Sustainability of Large Language Models for Recommender Systems](https://www.researchgate.net/publication/384104029_Towards_Sustainability_of_Large_Language_Models_for_Recommender_Systems) (short)
 	* Yuan Lin, Debasish Ghose, David Coates and Junyong You
