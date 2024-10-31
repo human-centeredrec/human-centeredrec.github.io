@@ -8,7 +8,7 @@ permlink: /keynote/
 
 by [João Vinagre](https://algorithmic-transparency.ec.europa.eu/joao-vinagre_en), Joint Research Centre of the European Commission.
 
-[[presentation slide>keynote.pdf]]
+[presentation slide](keynote.pdf)
 
 ## Abstract
 
