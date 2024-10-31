@@ -24,6 +24,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2024-10-31: [Keynote slide]({{ "/keynote/keynote.pdf" | relative_url }})
 * 2024-10-14: Workshop is held.
 * 2024-09-27: We fix the [program]({{ "/program/" | relative_url }})
 * 2024-09-12: [Keynote by João Vinagre]({{ "/keynote/" | relative_url }})
