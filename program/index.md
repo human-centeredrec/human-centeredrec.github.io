@@ -10,7 +10,7 @@ The workshop is on **Monday, Oct. 14, 2024**.
 
 * Opening {[slide](opening.pdf)}
 
-* [Questioning AI: Preserving Decision-Making Autonomy Through Reflection](https://arxiv.org/abs/2409.10250) (long)
+* [Questioning AI: Preserving Decision-Making Autonomy Through Reflection](https://arxiv.org/abs/2409.10250) {[slide](fischer.pdf)} (long)
 	* Simon Fischer
 * [Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation](https://arxiv.org/abs/2410.02776) {[slide](blahut.pdf)} (long)
 	* Václav Blahut and Karel Koupil
