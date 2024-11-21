@@ -4,7 +4,7 @@ layout: page
 permlink: /cfp/
 ---
 
-The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WWW 2025](https://www2025.thewebconf.org/) offers a unique platform to discuss and advance the development of recommender systems that prioritize human needs, values, and capabilities. We welcome research and position papers that explore ethical, social, technical, and user-oriented challenges in building responsible and human-centered recommender systems.
+The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WWW 2025](https://www2025.thewebconf.org/) offers a unique platform to discuss and advance the development of recommender systems that prioritize human needs, values, and capabilities. We welcome research papers that explore ethical, social, technical, and user-oriented challenges in building responsible and human-centered recommender systems.
 
 We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Sydney.
 
@@ -26,17 +26,9 @@ We particularly welcome submissions connecting these topics to emerging technolo
 
 ## Submission Guidelines
 
-We invite submissions in two categories: **Position Papers** and **Research Papers**. Manuscripts will be reviewed by our program committee through a **single-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
+We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **single-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
 
 To encourage open discussions and early-stage research, **no official proceedings will be published**. However, all accepted papers are encouraged to be shared on [arXiv.org](https://arxiv.org/) by the authors.
-
-### Position Papers
-
-Position papers aim to address one or more of the topics listed above or practical issues in designing human-centered recommender systems. Submissions can include conceptual frameworks, case studies, or industry insights. Manuscripts should not exceed **3 pages** in the ACM manuscript format (excluding references).
-
-### Research Papers
-
-Research papers present empirical or theoretical results related to human-centered recommender systems. Examples include studies on bias and fairness, explainability, privacy-preserving techniques, or user satisfaction. Manuscripts should not exceed **10 pages** in the ACM manuscript format (excluding references).
 
 ### Paper Format
 
@@ -48,20 +40,19 @@ All submissions must follow the ACM manuscript/sigconf format, with the followin
 
 CCS class and keywords sections are optional.
 
-- **Position Papers**: Limited to 3 pages in the ACM manuscript format.  
-- **Research Papers**: Limited to 10 pages in the ACM manuscript format.  
+- Papers must be between **4 and 8 pages** in the ACM manuscript format (excluding references).  
 - Appendices are allowed but will not count toward the page limit. References and acknowledgements are excluded from the page count.
 
 ### Submission
 
-Submissions must be made through [EasyChair](https://easychair.org/account2/signin?l=1711152276907460930). Please specify the type of your submission: **Position Paper** or **Research Paper**.
+Submissions must be made through [EasyChair](https://easychair.org/).
 
 ## Important Dates
 
 * **2024-12-18**: Paper submission deadline  
 * **2025-01-13**: Author notification  
 * **2025-02-02**: Camera-ready submission  
-* **2025-04-28–05-02**: Workshop (half-day session)
+* **2025-04-28**: Workshop (half-day session)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
