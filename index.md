@@ -24,7 +24,10 @@ permlink: /
 
 The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
 
+</br>
+
 ## Important Dates
+---
 
 * **2024-12-18**: Paper submission deadline  
 * **2025-01-13**: Author notification  
@@ -33,7 +36,10 @@ The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
+</br>
+
 ## Workshop Objectives
+---
 
 This workshop aims to:
 
@@ -42,14 +48,19 @@ This workshop aims to:
 3. Share innovative methodologies, evaluation frameworks, and applications.
 4. Promote diversity and inclusion within the recommender systems community.
 
+</br>
+
 ## Program Highlights
+---
 
 * **Keynote Talks**: Delivered by leading researchers in HCRS.  
 * **Paper Sessions**: Presentations of accepted papers showcasing cutting-edge research.  
 * **Panel Discussion**: Future directions and challenges in human-centered recommender systems.  
 
+</br>
 
 ## Call for Papers
+---
 
 We welcome submissions on the following topics (but not limited to):
 
@@ -65,7 +76,10 @@ We welcome submissions on the following topics (but not limited to):
 
 For submission guidelines, visit the [Call for Papers page]({{ "/cfp/" | relative_url }}).
 
+</br>
+
 ## Organizers
+---
 
 The workshop is organized by an international and diverse team of experts in the field:
 
@@ -78,6 +92,8 @@ The workshop is organized by an international and diverse team of experts in the
 - **Qi Cao** (Institute of Computing Technology, Chinese Academy of Sciences, China)  
 - **Zhaochun Ren** (Leiden University, Netherlands)  
 - **Fei Sun** (Institute of Computing Technology, Chinese Academy of Sciences, China)  
+
+</br>
 
 ---
 
