@@ -10,7 +10,7 @@ permlink: /
 </div>
 
 <div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
-<img src="banner.png" alt="Workshop Banner" style="width: 80%; margin-bottom: 2ex;">
+<img src="banner.png" alt="Workshop Banner" style="width: 100%; margin-bottom: 2ex;">
 </div>
 
 The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
