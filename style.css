@@ -1,0 +1,14 @@
+body {
+    max-width: 1200px; /* 设置页面的最大宽度 */
+    margin: 0 auto;    /* 居中对齐 */
+    padding: 0 20px;   /* 添加左右间距，避免内容紧贴屏幕边缘 */
+    box-sizing: border-box;
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      max-width: 100%; /* 在小屏幕上全屏显示 */
+      padding: 0 10px;
+    }
+  }
+  
