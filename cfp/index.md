@@ -4,7 +4,7 @@ layout: page
 permlink: /cfp/
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../style.css">
 
 The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) offers a unique platform to discuss and advance the development of recommender systems that prioritize human needs, values, and capabilities. We welcome research papers that explore ethical, social, technical, and user-oriented challenges in building responsible and human-centered recommender systems.
 
