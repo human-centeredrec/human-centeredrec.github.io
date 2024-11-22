@@ -18,3 +18,11 @@ body {
     padding: 0 20px;   /* 可选：为左右留一点间距 */
     box-sizing: border-box; /* 包括内边距在宽度内 */
 }
+
+h2 {
+    padding-top: 20px; /* 标题上方的间距 */
+    margin-bottom: 10px; /* 标题和分割线之间的间距 */
+    border-bottom: 2px solid #ddd; /* 分割线的样式 */
+    padding-bottom: 5px; /* 让分割线看起来更自然 */
+  }
+  
