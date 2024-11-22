@@ -12,3 +12,9 @@ body {
     }
   }
   
+.wrapper {
+    max-width: 1200px; /* 设置新的最大宽度 */
+    margin: 0 auto;    /* 居中对齐 */
+    padding: 0 20px;   /* 可选：为左右留一点间距 */
+    box-sizing: border-box; /* 包括内边距在宽度内 */
+}
