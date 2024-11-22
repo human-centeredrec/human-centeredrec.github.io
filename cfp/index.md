@@ -26,7 +26,7 @@ We particularly welcome submissions connecting these topics to emerging technolo
 
 ## Submission Guidelines
 
-We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **single-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
+We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **double-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
 
 To encourage open discussions and early-stage research, **no official proceedings will be published**. However, all accepted papers are encouraged to be shared on [arXiv.org](https://arxiv.org/) by the authors.
 
