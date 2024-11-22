@@ -2,8 +2,9 @@
 title: "The 1st Workshop on Human-Centered Recommender Systems"
 layout: page
 permlink: /
-css: style.css
 ---
+
+<link rel="stylesheet" href="style.css">
 
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
 <p>The 1st Workshop on Human-Centered Recommender Systems will take place at <a href="https://www2025.thewebconf.org/"> WebConf 2025</a> in Sydney, Australia, from April 28–May 2, 2025.</p>
