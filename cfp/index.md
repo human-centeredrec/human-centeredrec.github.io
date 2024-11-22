@@ -45,7 +45,7 @@ CCS class and keywords sections are optional.
 
 ### Submission
 
-Submissions must be made through [EasyChair](https://easychair.org/).
+TBA
 
 ## Important Dates
 
