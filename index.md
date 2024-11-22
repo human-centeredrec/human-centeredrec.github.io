@@ -10,16 +10,8 @@ permlink: /
 </div>
 
 <div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
-<img src="https://img1.wsimg.com/isteam/ip/10de5395-b874-4a16-bb99-75d7ad3d5551/www-wo-logosvg.svg/:/rs=h:75,cg:true,m/qt=q:100/ll" alt="Workshop Banner" style="width: 80%; margin-bottom: 2ex;">
+<img src="https://www2024.thewebconf.org/img/logos/theWebConf2024-logo.png" alt="Workshop Banner" style="width: 80%; margin-bottom: 2ex;">
 </div>
-
-<style>
-/* 修改页面背景颜色为蓝色，并调整文字颜色为白色 */
-body {
-    background-color: #007BFF;
-    color: white;
-}
-</style>
 
 The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
 
