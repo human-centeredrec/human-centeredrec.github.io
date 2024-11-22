@@ -5,7 +5,7 @@ permlink: /
 ---
 
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
-<p>The 1st Workshop on Human-Centered Recommender Systems will take place at <a href="https://www2025.thewebconf.org/">WWW 2025</a> in Sydney, Australia, from April 28–May 2, 2025.</p>
+<p>The 1st Workshop on Human-Centered Recommender Systems will take place at <a href="https://www2025.thewebconf.org/"> WebConf 2025</a> in Sydney, Australia, from April 28–May 2, 2025.</p>
 <p>We invite you to join discussions on ethical, user-centered, and socially responsible recommender systems!</p>
 </div>
 
@@ -21,7 +21,7 @@ body {
 }
 </style>
 
-The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WWW 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
+The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
 
 ## Important Dates
 
