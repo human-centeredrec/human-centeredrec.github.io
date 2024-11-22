@@ -9,11 +9,19 @@ permlink: /
 <p>We invite you to join discussions on ethical, user-centered, and socially responsible recommender systems!</p>
 </div>
 
-<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
+<!-- <div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
 <img src="banner.png" alt="Workshop Banner" style="width: 100%; margin-bottom: 2ex;">
+</div> -->
+
+<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex; position: relative; width: 100%; height: 300px; background-image: url('banner2.webp'); background-size: cover; background-position: center;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);">
+    The 1st Workshop on Human-Centered Recommender Systems @TheWebConf 2025
+  </div>
 </div>
 
-The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [WebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
+
+
+The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [TheWebConf 2025](https://www2025.thewebconf.org/) provides a collaborative platform for researchers, industry professionals, and academics to explore the development of recommender systems that prioritize human needs, values, and capabilities. Topics include robustness, privacy, transparency, fairness, diversity, accountability, ethical considerations, user-friendly design, and innovative evaluation methods.
 
 ## Important Dates
 
