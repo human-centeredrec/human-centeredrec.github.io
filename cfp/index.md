@@ -26,9 +26,11 @@ We particularly welcome submissions connecting these topics to emerging technolo
 
 ## Submission Guidelines
 
-We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **double-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
+We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **single-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
 
-To encourage open discussions and early-stage research, **no official proceedings will be published**. However, all accepted papers are encouraged to be shared on [arXiv.org](https://arxiv.org/) by the authors.
+For unpublished work, authors have the option to include their accepted papers in the **Companion Proceedings of the Web Conference 2025**, provided they meet the camera-ready timeline. Including a paper in the companion proceedings does **not** restrict future submissions to other venues. Previously published work is also welcome for submission to the workshop, but such work will **not** be included in the companion proceedings. 
+
+This policy encourages open discussions while respecting the integrity of prior and future publications.
 
 ### Paper Format
 
