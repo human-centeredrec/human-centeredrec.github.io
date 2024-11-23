@@ -36,7 +36,7 @@ This policy encourages open discussions while respecting the integrity of prior 
 
 ### Paper Format
 
-All submissions must follow the ACM manuscript/sigconf format, with the following options:
+All submissions must be in English and must adhere to the [ACM template and format](https://www.acm.org/publications/proceedings-template) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf), with the following options:
 
 ```latex
 \setcopyright{none}
