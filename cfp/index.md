@@ -49,7 +49,7 @@ CCS class and keywords sections are optional.
 
 ### Submission
 
-TBA
+Papers should be submitted from [Openreview](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/HCRS).
 
 ## Important Dates
 
