@@ -26,8 +26,8 @@ The 1st Workshop on Human-Centered Recommender Systems (HCRS) at [TheWebConf 202
 
 ## Important Dates
 
-* **2024-12-18**: Paper submission deadline  
-* **2025-01-13**: Author notification  
+* **2025-01-06**: Paper submission deadline  
+* **2025-01-20**: Author notification  
 * **2025-02-02**: Camera-ready submission  
 * **2025-04-28**: Workshop at TheWebConf 2025 (Half-day session)
 
