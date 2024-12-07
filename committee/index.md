@@ -42,7 +42,7 @@ permlink: /committee/
 
   <div class="committee-member">
     <p><img src="wyf.jpg" style="width: 150px; height:150px;"></p>
-    <p><a href="profile.yunfan.info">Yunfan Wu</a></p>
+    <p><a href="https://profile.yunfan.info">Yunfan Wu</a></p>
     <p>University of Chinese Academy of Sciences</p>
   </div>
 
