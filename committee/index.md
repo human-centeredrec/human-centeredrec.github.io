@@ -163,8 +163,10 @@ permlink: /committee/
 <p><a href="http://ofey.me/">Fei Sun</a></p>
 <p>Institute of Computing Technology, Chinese Academy of Sciences</p>
 </div> 
+-->
 
-
+<!-- 
+## Organized By
 <div class="organized-by">
   <h2>Organized by</h2>
   <div class="organized-logo-container">
@@ -172,7 +174,7 @@ permlink: /committee/
       <img class="organized-logo" src="ucas-logo.png" alt="UCAS Logo">
     </a>
     <a href="https://www.uva.nl/">
-      <img class="organized-logo" src="amsterdam-logo.png" alt="University of Amsterdam Logo">
+      <img class="organized-logo" src="uam-logo.png" alt="University of Amsterdam Logo">
     </a>
     <a href="https://www.amazon.com/">
       <img class="organized-logo" src="amazon-logo.png" alt="Amazon Logo">
@@ -188,6 +190,5 @@ permlink: /committee/
     </a>
   </div>
 </div>
-
-
 -->
+
