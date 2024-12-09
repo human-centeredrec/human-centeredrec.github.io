@@ -99,7 +99,8 @@ permlink: /committee/
 }
 
 .organized-logo {
-  height: 80px; 
+  image-rendering: auto;
+  height: 70px; 
   width: auto; 
 }
 
