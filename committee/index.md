@@ -101,8 +101,8 @@ permlink: /committee/
 .organized-logo-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* 居中对齐 */
-  gap: 2em; /* 图片间距 */
+  justify-content: left; /* 居中对齐 */
+  gap: 1em; /* 图片间距 */
 }
 
 .organized-logo {
@@ -112,7 +112,6 @@ permlink: /committee/
 </style>
 
 <div class="organized-by">
-  <h2>Organized by</h2>
   <div class="organized-logo-container">
     <a href="https://www.ucas.ac.cn/">
       <img class="organized-logo" src="ucas-logo.png" alt="UCAS Logo">
