@@ -89,10 +89,8 @@ permlink: /committee/
   </div>
 </div>
 
-
 ## Organized By
 <style>
-
 .organized-logo-container {
   display: flex;
   flex-wrap: wrap;
@@ -101,8 +99,8 @@ permlink: /committee/
 }
 
 .organized-logo {
-  width: 150px; 
-  height: auto; 
+  height: 150px; 
+  width: auto; 
 }
 
 @media screen and (max-width: 768px) {
@@ -112,8 +110,7 @@ permlink: /committee/
   }
 }
 </style>
-
- <div class="organized-logo-container">
+<div class="organized-logo-container">
   <a href="https://www.ucas.ac.cn/">
     <img class="organized-logo" src="ucas-logo.png" alt="UCAS Logo">
   </a>
