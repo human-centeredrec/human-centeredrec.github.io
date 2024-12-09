@@ -92,45 +92,44 @@ permlink: /committee/
 
 ## Organized By
 <style>
-/* Organized by 样式 */
-.organized-by {
-  margin-top: 5em;
-  text-align: center;
-}
 
 .organized-logo-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: left; /* 居中对齐 */
-  gap: 1em; /* 图片间距 */
+  justify-content: left; 
+  gap: 1em; 
 }
 
 .organized-logo {
-  width: 150px; /* 控制 logo 的宽度 */
-  height: auto; /* 保持比例 */
+  width: 150px; 
+  height: auto; 
+}
+
+@media screen and (max-width: 768px) {
+  .committee-member {
+    width: 100%;
+    max-width: none;
+  }
 }
 </style>
 
-<div class="organized-by">
-  <div class="organized-logo-container">
-    <a href="https://www.ucas.ac.cn/">
-      <img class="organized-logo" src="ucas-logo.png" alt="UCAS Logo">
-    </a>
-    <a href="https://www.uva.nl/">
-      <img class="organized-logo" src="uam-logo.png" alt="University of Amsterdam Logo">
-    </a>
-    <a href="https://www.amazon.com/">
-      <img class="organized-logo" src="amazon-logo.png" alt="Amazon Logo">
-    </a>
-    <a href="https://www.kuaishou.com">
-      <img class="organized-logo" src="kuaishou-logo.jpg" alt="KuaiShou Logo">
-    </a>
-    <a href="https://www.ict.ac.cn/">
-      <img class="organized-logo" src="ict-logo.png" alt="ICT Logo">
-    </a>
-    <a href="https://www.universiteitleiden.nl/">
-      <img class="organized-logo" src="leiden-logo.png" alt="Leiden University Logo">
-    </a>
-  </div>
+ <div class="organized-logo-container">
+  <a href="https://www.ucas.ac.cn/">
+    <img class="organized-logo" src="ucas-logo.png" alt="UCAS Logo">
+  </a>
+  <a href="https://www.uva.nl/">
+    <img class="organized-logo" src="uam-logo.png" alt="University of Amsterdam Logo">
+  </a>
+  <a href="https://www.amazon.com/">
+    <img class="organized-logo" src="amazon-logo.png" alt="Amazon Logo">
+  </a>
+  <a href="https://www.kuaishou.com">
+    <img class="organized-logo" src="kuaishou-logo.jpg" alt="KuaiShou Logo">
+  </a>
+  <a href="https://www.ict.ac.cn/">
+    <img class="organized-logo" src="ict-logo.png" alt="ICT Logo">
+  </a>
+  <a href="https://www.universiteitleiden.nl/">
+    <img class="organized-logo" src="leiden-logo.png" alt="Leiden University Logo">
+  </a>
 </div>
-
