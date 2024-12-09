@@ -124,10 +124,10 @@ permlink: /committee/
       <img class="organized-logo" src="amazon-logo.png" alt="Amazon Logo">
     </a>
     <a href="https://www.kuaishou.com">
-      <img class="organized-logo" src="kuaishou-logo.png" alt="KuaiShou Logo">
+      <img class="organized-logo" src="kuaishou-logo.jpg" alt="KuaiShou Logo">
     </a>
     <a href="https://www.ict.ac.cn/">
-      <img class="organized-logo" src="ict-logo.png" alt="ICT Logo">
+      <img class="organized-logo" src="ict-logo.jpg" alt="ICT Logo">
     </a>
     <a href="https://www.universiteitleiden.nl/">
       <img class="organized-logo" src="leiden-logo.png" alt="Leiden University Logo">
