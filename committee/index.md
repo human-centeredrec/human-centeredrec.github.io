@@ -11,7 +11,7 @@ permlink: /committee/
 /* 成员容器样式 */
 .committee-member {
   margin-bottom: 10ex;
-  width: 30%;
+  width: 23%;
   max-width: 300px; /* 与照片宽度一致 */
   box-sizing: border-box;
   text-align: center; /* 文字居中 */
