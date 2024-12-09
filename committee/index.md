@@ -31,24 +31,6 @@ permlink: /committee/
     max-width: none;
   }
 }
-
-/* Organized by 样式 */
-.organized-by {
-  margin-top: 5em;
-  text-align: center;
-}
-
-.organized-logo-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; /* 居中对齐 */
-  gap: 2em; /* 图片间距 */
-}
-
-.organized-logo {
-  width: 150px; /* 控制 logo 的宽度 */
-  height: auto; /* 保持比例 */
-}
 </style>
 
 <div class="committee-container">
@@ -107,66 +89,28 @@ permlink: /committee/
   </div>
 </div>
 
-<!-- 
-## Organizing Committee
 
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="kkz.jpeg" style="height:150px"></p>
-<p><a href="https://kaike-zhang.github.io/">Kaike Zhang</a></p>
-<p>University of Chinese Academy of Sciences</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="cq.jpeg" style="height:150px"></p>
-<p><a href="profile.yunfan.info">Yunfan Wu</a></p>
-<p>University of Chinese Academy of Sciences</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="lyuyougang.png" style="height:150px"></p>
-<p><a href="https://youganglyu.github.io/">Yougang Lyu</a></p>
-<p>University of Amsterdam</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="sudu.pic.jpg" style="height:150px"></p>
-<p><a href="https://scholar.google.com/citations?hl=en&user=w2pQByMAAAAJ&view_op=list_works&gmla=AL3_zigxd_kXXPJGKuE2SyjKu9lFnBizozo0T_zEMjDbmMOPgrzym7_9YfBTfVIwJ8Nib7pys8H-ZOeDmjQNMRwe45ggeCYz3I3ptA">Du Su</a></p>
-<p>Institute of Computing Technology, Chinese Academy of Sciences</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="gyq.jpeg" style="height:150px"></p>
-<p><a href="https://yingqiangge.github.io/">Yingqiang Ge</a></p>
-<p>Amazon</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="lsc.jpeg" style="height:150px"></p>
-<p><a href="https://scholar.google.com/citations?user=kivnB4QAAAAJ&hl=zh-CN">Shuchang Liu</a></p>
-<p>Kuai Shou</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="cq.jpeg" style="height:150px"></p>
-<p><a href="https://caoqi92.github.io/">Qi Cao</a></p>
-<p>Institute of Computing Technology, Chinese Academy of Sciences</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="zcr.jpg" style="height:150px"></p>
-<p><a href="https://renzhaochun.github.io/">Zhaochun Ren</a></p>
-<p>Leiden University</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="sf.jpg" style="height:150px"></p>
-<p><a href="http://ofey.me/">Fei Sun</a></p>
-<p>Institute of Computing Technology, Chinese Academy of Sciences</p>
-</div> 
--->
-
-<!-- 
 ## Organized By
+<style>
+/* Organized by 样式 */
+.organized-by {
+  margin-top: 5em;
+  text-align: center;
+}
+
+.organized-logo-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* 居中对齐 */
+  gap: 2em; /* 图片间距 */
+}
+
+.organized-logo {
+  width: 150px; /* 控制 logo 的宽度 */
+  height: auto; /* 保持比例 */
+}
+</style>
+
 <div class="organized-by">
   <h2>Organized by</h2>
   <div class="organized-logo-container">
@@ -190,5 +134,4 @@ permlink: /committee/
     </a>
   </div>
 </div>
--->
 
