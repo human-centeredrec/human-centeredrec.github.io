@@ -10,7 +10,7 @@ permlink: /committee/
 <style>
 /* 成员容器样式 */
 .committee-member {
-  margin-bottom: 10ex;
+  margin-bottom: 3ex;
   width: 20%;
   max-width: 300px; /* 与照片宽度一致 */
   box-sizing: border-box;
@@ -99,7 +99,7 @@ permlink: /committee/
 }
 
 .organized-logo {
-  height: 150px; 
+  height: 80px; 
   width: auto; 
 }
 
