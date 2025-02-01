@@ -54,8 +54,8 @@ Papers should be submitted from [Openreview](https://openreview.net/group?id=ACM
 ## Important Dates
 
 * **2025-01-06**: Paper submission deadline  
-* **2025-01-20**: Author notification  
-* **2025-02-02**: Camera-ready submission  
+* **2025-01-26**: Author notification  
+* **2025-02-07**: Camera-ready submission  
 * **2025-04-28**: Workshop (half-day session)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
