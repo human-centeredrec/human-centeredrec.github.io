@@ -4,49 +4,48 @@ layout: page
 permlink: /program/
 ---
 
-The workshop is on **Monday, Oct. 14, 2024**.
+<link rel="stylesheet" href="../style.css">
 
-## Session 1 (On-site; 09:00–10:30 CEST, 07:00–08:30 UTC)
+The workshop is on **April. 29, 2025**.
 
-* Opening {[slide](opening.pdf)}
+## Opening (On-site; 09:00–09:10 AEDT, **22:00–22:10 UTC**)
 
-* [Questioning AI: Preserving Decision-Making Autonomy Through Reflection](https://arxiv.org/abs/2409.10250) {[slide](fischer.pdf)} (long)
-	* Simon Fischer
-* [Bypassing the Popularity Bias: Repurposing Models for Better Long-Tail Recommendation](https://arxiv.org/abs/2410.02776) {[slide](blahut.pdf)} (long)
-	* Václav Blahut and Karel Koupil
-* [Towards Sustainability of Large Language Models for Recommender Systems](https://www.researchgate.net/publication/384104029_Towards_Sustainability_of_Large_Language_Models_for_Recommender_Systems) (short)
-	* Yuan Lin, Debasish Ghose, David Coates and Junyong You
-* [Data Generation via Latent Factor Simulation for Fairness-aware Re-ranking](https://arxiv.org/abs/2409.14078) {[slide](stefancova.pdf), [code](https://github.com/that-recsys-lab/lafs)} (short)
-	* Elena Štefancová, Cassidy All, Joshua Paup, Martin Homola, Nicholas Mattei and Robin Burke
+## Keynote #1 (On-site; 09:10–09:40 AEDT, **22:10–22:40 UTC**)
 
-## Session 2 (On-line; 11:15–12:45 CEST, 09:15–10:45 UTC)
+* Xiang Wang: *On Human Preference Alignment for LLM-based Recommenders*
 
-* [Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation](https://arxiv.org/abs/2409.07424) {[slide](emdad.pdf)} (long)
-	* Gavin Butts, Jethro R. Lee, Pegah Emdad, Shannon Song, Chiman Salavati, Willmar Sosa Diaz, Shiri Dori-Hacohen and Fabricio Murai
-* [Reducing Population-level Inequality Can Improve Demographic Group Fairness: a Twitter Case Study](https://arxiv.org/abs/2409.08135) {[slide](ghosh.pdf)} (short)
-	* Avijit Ghosh, Tomo Lazovich, Kristian Lum and Christo Wilson
-* [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) (short)
-	* Qunfang Wu and Lu Xian
-* [A Unified Causal Framework for Auditing Recommender Systems](https://arxiv.org/abs/2409.13210) (short)
-	* Vibhhu Sharma, Shantanu Gupta, Nil-Jana Akpinar, Zachary Lipton and Leqi Liu
+## Paper Session #1 (On-site; 09:40–10:30 AEDT, **22:40–23:30 UTC**)
 
-## Session 3 (On-site; 14:30–16:00 CEST, 12:30–14:00 UTC)
+* *Filtering Discomforting Recommendations with Large Language Models*  
+  Jiahao Liu, Yiyang Shao, Peng Zhang, Dongsheng Li, Hansu Gu, Chao Chen, Longzhi Du, Tun Lu, Ning Gu  
+  [paper](3_Filtering_Discomforting_Reco.pdf) · [slides](3_slides.pdf)
+  
+* *InstructAgent: Building User Controllable Recommender via LLM Agent*  
+  Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang  
+  [paper](6_InstructAgent_Building_User_.pdf) · [slides](#)
+  
+* *Revealing, Analyzing, and Mitigating the Adverse Impact of Shared Accounts on Personalized Recommendations for Single-User Accounts*  
+  Xingbo Jing, Tao Lian, Wang Li  
+  [paper](11_Revealing_Analyzing_and_Mit.pdf) · [slides](11_slides.pdf)
 
-### Keynote: [Recommender systems research under the EU’s Digital Services Act and AI Act]({{ "../keynote/" | relative_url }})
+## Coffee Break (10:30–11:00 AEDT, **23:30–00:00 UTC**)
 
-João Vinagre (Joint Research Centre of the European Commission)
+## Keynote #2 (On-site; 11:00–11:30 AEDT, **00:00–00:30 UTC**)
 
-## Session 4 (On-site; 16:45–18:15 CEST, 14:45–16:15 UTC)
+* TBA
 
-* [ARTAI: An Evaluation Platform to Assess Societal Risk of Recommender Algorithms](http://arxiv.org/abs/2409.12396) (long)
-	* Qin Ruan, Jin Xu, Ruihai Dong, Arjumand Younus, Tai Tan Mai, Barry O'Sullivan and Susan Leavy
-* [The trade-off between data minimization and fairness in collaborative filtering](https://www.researchgate.net/publication/384153008_The_trade-off_between_data_minimization_and_fairness_in_collaborative_filtering) {[slide](sonboli.pdf)} (long)
-	* Nasim Sonboli, Sipei Li, Mehdi Elahi and Asia Biega
-* [On the challenges of studying bias in Recommender Systems: The effect of data characteristics and algorithm configuration](https://arxiv.org/abs/2409.08046) {[slide](daniil.pdf)} (short)
-	* Savvina Daniil, Manel Slokom, Mirjam Cuper, Cynthia C. S. Liem, Jacco van Ossenbruggen and Laura Hollink
-* [RTs ≠ Endorsements: Rethinking Exposure Fairness on Social Media Platforms](https://arxiv.org/abs/2409.13237) (short)
-	* Nathan Bartley and Kristina Lerman
-* [Bias Reduction in Social Networks through Agent-Based Simulations](https://arxiv.org/abs/2409.16558) (short)
-	* Nathan Bartley, Keith Burghardt and Kristina Lerman
+## Paper Session #2 (On-site; 11:30–12:20 AEDT, **00:30–01:20 UTC**)
 
-* Closing
+* *Improving LLM-Based Recommender Systems with User-Controllable Profiles*  
+  Stanisław Woźniak, Jacek Duszenko, Jan Kocon, Przemyslaw Kazienko  
+  [paper](12_Improving_LLM_Based_Recomme.pdf) · [slides](12_slides.pdf)
+
+* *On the Evaluation of Session-based Recommendation Unlearning*  
+  Liu Yang, Zhaochun Ren, Ziqi Zhao, Pengjie Ren, Zhumin Chen, Jun Ma, Xin Xin  
+  [paper](15_On_the_Evaluation_of_Sessio.pdf) · [slides](15_slides.pdf)
+
+* *Evaluating Conversational Recommender Systems with Large Language Models: A User-Centric Evaluation Framework*  
+  Nuo Chen, Quanyu Dai, Xiaoyu Dong, Xiao-Ming Wu, Zhenhua Dong  
+  [paper](16_Evaluating_Conversational_R.pdf) · [slides](16_slides.pdf)
+
+## Closing (On-site; 12:20–12:30 AEDT, **01:20–01:30 UTC**)
