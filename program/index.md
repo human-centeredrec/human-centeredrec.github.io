@@ -6,13 +6,16 @@ permlink: /program/
 
 <link rel="stylesheet" href="../style.css">
 
+<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex; position: relative; width: 100%; height: 300px; background-image: url('Schedule.png'); background-size: cover; background-position: center;">
+</div>
+
 The workshop is on **April. 29, 2025**.
 
 ### Opening (On-site; 09:00–09:10 AEDT, **22:00–22:10 UTC**)
 
 ### Keynote #1 (On-site; 09:10–09:40 AEDT, **22:10–22:40 UTC**)
 
-* Xiang Wang: *On Human Preference Alignment for LLM-based Recommenders*
+* **Xiang Wang**: *On Human Preference Alignment for LLM-based Recommenders*
 
 ### Paper Session #1 (On-site; 09:40–10:30 AEDT, **22:40–23:30 UTC**)
 
@@ -32,7 +35,7 @@ The workshop is on **April. 29, 2025**.
 
 ### Keynote #2 (On-site; 11:00–11:30 AEDT, **00:00–00:30 UTC**)
 
-* TBA
+* **Aixin Sun**: *From Recommendations to Interactions: Putting Users Back in the Loop*
 
 ### Paper Session #2 (On-site; 11:30–12:20 AEDT, **00:30–01:20 UTC**)
 
