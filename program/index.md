@@ -6,7 +6,7 @@ permlink: /program/
 
 <link rel="stylesheet" href="../style.css">
 
-<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex; position: relative; width: 100%; background-image: url('Schedule.png'); background-size: cover; background-position: center;">
+<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex; position: relative; width: 100%; height: 1000px; background-image: url('Schedule.png'); background-size: cover; background-position: center;">
 </div>
 
 The workshop is on **April. 29, 2025**.
